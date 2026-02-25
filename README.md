@@ -42,10 +42,10 @@
 
 | project | description | stack |
 |---------|-------------|-------|
-| **[PKA Website](https://purdueka.org/)** | backend for Purdue Korean Assoc. (200+ members) | Node.js · JWT · REST |
-| **[Fluention](https://github.com/ozlab-purdue/Fluention)** | AI-powered speech therapy app | Python · FastAPI · PostgreSQL · Whisper |
-| **SOKA Inc** | frontend | html  · CSS|
-| **[EHP Website](https://ehp.rocks/)** | web exploits, SQLi, pentesting practice | Kali · Burp Suite · tcpdump |
+| [PKA Website](https://purdueka.org/) | backend for Purdue Korean Assoc. (200+ members) | Node.js · JWT · REST |
+| [Fluention](https://github.com/ozlab-purdue/Fluention) | AI-powered speech therapy app | Python · FastAPI · PostgreSQL · Whisper |
+| [EHP Website](https://ehp.rocks/) | web exploits, SQLi, pentesting practice | Kali · Burp Suite · tcpdump |
+| [SOKA Inc](http://valueindiana.com/) | frontend | html  · CSS|
 
 ---
 
@@ -75,6 +75,15 @@
 ---
 
 *"There is no tragedy in having to start again, as long as you start again."*
+
+
+
+<br>
+<br>
+<br>
+<div align="right">
+<sup> guys i just rly rly want to build cool things </sup>
+</div>
 </div>
 
 <!--
