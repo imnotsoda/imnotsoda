@@ -8,7 +8,9 @@
 <!-- <svg xmlns="http://www.w3.org/2000/svg" width="300" height="20"> -->
 <!--  <text x="0" y="15" font-size="12" fill="grey" font-style="italic">im currently listening to...</text> -->
 <!-- </svg> -->
-<!--![](./listening.svg) -->
+<p align="center">
+  <img src="./listening.svg"/>
+</p>
 <!-- <span style="color:grey"><sup><sup>*im currently listening to...* <br> </sup></sup></span> -->
 <a href="https://imnotsoda.pythonanywhere.com/link">
   <img
