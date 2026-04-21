@@ -44,7 +44,7 @@
 |---------|-------------|-------|
 | [PKA Website](https://purdueka.org/) | backend for Purdue Korean Assoc. (200+ members) | Node.js · JWT · REST |
 | [Fluention](https://github.com/ozlab-purdue/Fluention) | AI-powered speech therapy app | Python · FastAPI · PostgreSQL · Whisper |
-| [EHP Website](https://ehp.rocks/) | web exploits, SQLi, pentesting practice | Kali · Burp Suite · tcpdump |
+| [EHP Website](https://ehp.rocks/) | Website for club where we practice web exploits, SQLi, pentesting practice |  |
 | [SOKA Inc](http://valueindiana.com/) | frontend | html  · CSS|
 
 ---
