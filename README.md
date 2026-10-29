@@ -27,7 +27,7 @@
 
 ```
   ╔══════════════════════════════════════════════════════════╗
-  ║   junior @ purdue  ·  software · security · systems      ║
+  ║   senior @ purdue  ·  software · security · systems      ║
   ║               currently figuring life out                ║
   ╚══════════════════════════════════════════════════════════╝
 ```
